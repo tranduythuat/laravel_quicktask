@@ -1,0 +1,25 @@
+[33mcommit f58f9f006f0a2e59360fa3da3a8853a7afb95957[m[33m ([m[1;36mHEAD -> [m[1;32mrouting[m[33m, [m[1;31morigin/routing[m[33m)[m
+Author: tranduythuat <thuattran1810@gmail.com>
+Date:   Fri Aug 14 11:00:51 2020 +0700
+
+    routing
+
+[33mcommit c78f8a701997e094b47db539a6ba92f4adc350ae[m
+Author: tranduythuat <thuattran1810@gmail.com>
+Date:   Tue Aug 11 17:30:18 2020 +0700
+
+    Database Migrations & Eloguent Models
+    
+    Database Migrations & Eloquent Models
+
+[33mcommit fe5696fef1ade5a4d5fbbba0a675f2d6af4fe7b8[m[33m ([m[1;31morigin/init_project[m[33m, [m[1;32minit_project[m[33m)[m
+Author: tranduythuat <thuattran1810@gmail.com>
+Date:   Tue Aug 11 09:44:42 2020 +0700
+
+    init project
+
+[33mcommit 5d858ff7a0f4db17a25884d09fa2aea68d53f4a2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: tranduythuat <58695376+tranduythuat@users.noreply.github.com>
+Date:   Tue Aug 11 09:34:40 2020 +0700
+
+    Initial commit
